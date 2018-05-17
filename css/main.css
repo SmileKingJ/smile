@@ -9,6 +9,7 @@ nav.container {
     margin: 0px;
     display: flex;
     background-color: #212121;
+    overflow: hidden;
 }
 a {
     color: white;
